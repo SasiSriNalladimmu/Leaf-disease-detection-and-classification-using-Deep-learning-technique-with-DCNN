@@ -101,12 +101,14 @@ Leaf-disease-detection-and-classification-using-Deep-learning-technique-with-DCN
 ├── requirements.txt
 └── README.md
 
+```
 🔮 Future Enhancements
 Add more plant species
 Improve model accuracy with larger datasets
 Deploy mobile application
 Add treatment recommendation system
 Predict disease severity
+
 
 
 📜 Publication
