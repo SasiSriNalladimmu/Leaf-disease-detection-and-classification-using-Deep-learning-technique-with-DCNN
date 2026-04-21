@@ -73,7 +73,7 @@ https://huggingface.co/spaces/GowriSaiKunchapu/Leaf-disease-detection-and-classi
 
 ```bash
 # Clone the repository
-git clone https://github.com/KunchapuGowriSai/Leaf-disease-detection-and-classification-using-Deep-learning-technique-with-DCNN.git
+git clone https://github.com/SasiSriNalladimmu/Leaf-disease-detection-and-classification-using-Deep-learning-technique-with-DCNN.git
 
 # Navigate into the project folder
 cd Leaf-disease-detection-and-classification-using-Deep-learning-technique-with-DCNN
